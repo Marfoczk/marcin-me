@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.console{
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.lato {
+    font-family: "Lato";
+}
+
+.roboto {
+    font-family: "Roboto";
+}
+
+.dancing {
+    font-family: 'Dancing Script';
+}
+
+.fjalla {
+    font-family: "Fjalla One"
+}
